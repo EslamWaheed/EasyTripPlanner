@@ -5,13 +5,13 @@ The application should remind the user with his trips on the time specified by t
 In addition, the application should navigate the user to his destination. 
 After that, the application should keep track with the upcoming and past trips.
 
-#Developer
+# Developer
 1-	Abanoub Emil Samuel Ghaly
 2-	Aya Ayman Abd El-Megid El-Gendy
 3-	Eslam Waheed El-Badry Abd El-ghny
 4-	Omnia Samy Abd El-Moneam Gomaa
 
-#Our App Scenario
+# Our App Scenario
 1-	First user can sign up by making an account or he can use his Facebook account to login.
 2-	After he signs up or login he will be directed to the home screen.
 3-	Then user can add a new trip with a name, start point, end point, type of trip (round, one direction), date and time.
